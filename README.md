@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hdatasystems.com/assets/uploads/banner/1639365144.jpg)](https://Vishnuanand186.io)
+[![MasterHead](https://omnidata.com/wp-content/uploads/2022/11/How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg)](https://Vishnuanand186.io)
 <h1 align="center">Hi 👋, I'm Vishnu Anand</h1>
 <h3 align="center">A passionate aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
