@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishnuanand186](https://github.com/Vishnuanand186)
 
-- 💬 Ask me about **SQL, Python**
+- 💬 Ask me about **SQL, Python, Data Analysis**
 
 - 📫 How to reach me **vishnuanand186@gmail.com**
 
