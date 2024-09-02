@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuanand186&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuanand186" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vishnuanand186" target="blank"><img src="https://img.shields.io/twitter/follow/vishnuanand186?logo=twitter&style=for-the-badge" alt="vishnuanand186" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/vishnu-anand-m-k-00035ba2/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-vishnu--anand--m--k-00035ba2?logo=linkedin&style=for-the-badge" alt="vishnu-anand-m-k" />
+  </a> 
+</p>
 
 - 🏅 I’ve completed Data Analyst + Python Career Track Certificate from [Skillovilla (Gold) ](https://www.skillovilla.com/certificate/C348RHTY)
   
