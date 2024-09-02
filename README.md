@@ -1,6 +1,7 @@
 [![MasterHead](https://omnidata.com/wp-content/uploads/2022/11/How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg)](https://Vishnuanand186.io)
 <h1 align="center">Hi 👋, I'm Vishnu Anand</h1>
 <h3 align="center">A passionate aspiring Data Analyst from India</h3>
+<h3 align="center">Certified Data Analyst | Business Analyst | SQL | Advanced Excel | Power BI Developer | Python | Statistics | Problem Solving</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuanand186&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuanand186" /> </p>
