@@ -18,6 +18,14 @@
 - 💬 Ask me about **SQL, Python, Data Analysis**
 
 - 📫 How to reach me **vishnuanand186@gmail.com**
+- 🕵 About Me:
+As a dedicated professional with a solid foundation in the life insurance industry, I am currently transitioning into the field of data analysis, fueled by a passion for uncovering insights and solving complex problems. Through my journey, I have completed several data-focused projects, earning certifications in Data Analytics that enhance my credibility in this evolving field.
+
+Proficient in Python, SQL, and Power BI, I leverage these tools to collect, analyze, and interpret large datasets effectively. My experience empowers me to manage complex data manipulations while enhancing decision-making processes across various domains. ​I thrive on transforming raw data into actionable insights that drive business decisions and enhance operational efficiencies.​
+
+With a strong grounding in statistical methods and data visualization techniques, I excel at translating intricate findings into clear, compelling narratives. I believe that effective data storytelling is vital for communicating insights that influence key stakeholders and inform strategic initiatives.
+
+Eager to apply my analytical skills and fresh perspective to new challenges, I am committed to driving value through data in the ever-evolving landscape of analytics. I look forward to connecting with like-minded professionals and exploring collaborative opportunities where we can drive impactful results together.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
